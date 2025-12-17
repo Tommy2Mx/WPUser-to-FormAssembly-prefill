@@ -83,7 +83,7 @@ lastname=last_name
 If you have the FormAssembly WordPress plugin installed, simply use their shortcode as normal:
 
 ```
-[formassembly formid=123456]
+[formassembly formid=123456 iframe=1]
 ```
 
 The plugin will automatically detect the generated iframe and append your configured parameters.
