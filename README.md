@@ -1,10 +1,10 @@
-# FormAssembly User Prefill
+# WPUser-to-FormAssembly-prefill
 
 Automatically pass logged-in WordPress user data as URL parameters to embedded FormAssembly forms.
 
 ## Description
 
-FormAssembly User Prefill is a lightweight WordPress plugin that bridges the gap between your WordPress user accounts and FormAssembly forms. When users are logged into your WordPress site, this plugin automatically appends their information as URL parameters to any embedded FormAssembly forms, enabling seamless data prefilling and Salesforce lookups.
+WPUser-to-FormAssembly-prefill is a lightweight WordPress plugin that bridges the gap between your WordPress user accounts and FormAssembly forms. When users are logged into your WordPress site, this plugin automatically appends their information as URL parameters to any embedded FormAssembly forms, enabling seamless data prefilling and Salesforce lookups.
 
 ### Key Features
 
@@ -35,7 +35,7 @@ FormAssembly User Prefill is a lightweight WordPress plugin that bridges the gap
 ### Method 2: Manual Installation
 
 1. Download and extract the plugin files
-2. Upload the `formassembly-user-prefill` folder to `/wp-content/plugins/`
+2. Upload the `WPUser-to-FormAssembly-prefill` folder to `/wp-content/plugins/`
 3. Activate the plugin through the **Plugins** menu in WordPress
 
 ## Configuration
